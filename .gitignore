@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Expo & Builds
+.expo/
+*/.expo/
+dist/
+*/dist/
+web-build/
+*/web-build/
+
+# IDE
+.idea/
+*/.idea/
+.vscode/
+*/.vscode/
+
+# Readmes (ignorar conforme solicitado)
+*.md
+*README*
+README.md
+*/README.md
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
